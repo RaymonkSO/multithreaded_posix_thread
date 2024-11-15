@@ -15,7 +15,7 @@
 #define VAR_ACCESS_SEMAPHORE "/var_access_semaphore"
 
 long int global_var = 0;
-
+/* vanessa here */
 /**
 * This function should be implemented by yourself. It must be invoked
 * in the child process after the input parameter has been obtained.
