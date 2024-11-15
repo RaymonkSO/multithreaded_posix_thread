@@ -16,6 +16,8 @@
 
 long int global_var = 0;
 /* vanessa here */
+
+/*madi here*/
 /**
 * This function should be implemented by yourself. It must be invoked
 * in the child process after the input parameter has been obtained.
